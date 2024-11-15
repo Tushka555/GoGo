@@ -186,6 +186,3 @@
   justify-content: start;
   background-color: beige;
 }
-.share:hover {
-  transform: rotateY('angle');
-}
