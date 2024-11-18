@@ -260,4 +260,6 @@
 .tsashuzh:hover {
   color: blue;
   transition: 1s;
-}
+  /* background-color: #949494; */
+}   
+
