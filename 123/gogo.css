@@ -192,3 +192,72 @@
   padding: 8px 20px;
   transition-duration: 1s;
 }
+.onsar {
+  margin: 0px 0px 0px 30px;
+  font-size: 13px;
+}
+.baruun4zurg {
+  height: 170px; 
+  width: 290px; 
+  border-radius: 10px;
+}
+.niga {
+  font-size: 15px; 
+  margin: 5px 0px 0px 0px;
+}
+.flexx {
+  display: flex;
+}
+.teevrinzurg {
+  width: 210px; 
+  height: 150px; 
+  border-radius: 10px
+}
+.buttonss {
+  border-radius: 100%; 
+  height: 16px; 
+  width: 16px; 
+  background-color: #4389f0; 
+  color: black;
+  margin: 0;
+}
+.hairtsag {
+  width: 575px; 
+  height: 75px; 
+  background-color: #4389f0; 
+  display: flex; 
+  padding: 15px 10px;
+}
+.usegnuud {
+  color: white;
+  font-size: 14px;
+  margin: 0px 0px 0px 10px;
+}
+.ninja {
+  color: white; 
+  font-size: 12px; 
+  bottom: 0; 
+  right: 0; 
+}
+.hairtsag2 {
+  width: 575px; 
+  height: 53px; 
+  background-color: #4389f0; 
+  padding: 15px 10px;
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0px;
+}
+.idk {
+  padding-left: 30px; 
+  height: 171px; 
+  width: 480px
+}
+.tsashuzh {
+  font-size: 16px; 
+  margin: 0;
+}
+.tsashuzh:hover {
+  color: blue;
+  transition: 1s;
+}
